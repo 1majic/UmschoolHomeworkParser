@@ -1,0 +1,2 @@
+dest.fordler_directory=D:\Projects\Crypto\pythonProject\result
+chrome.directory=C:\Program Files\Google\Chrome\Application\chrome.exe
